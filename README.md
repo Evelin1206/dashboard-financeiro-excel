@@ -40,4 +40,4 @@ Projeto desenvolvido durante meus estudos, com base em um vídeo do youtube com 
 
 PRÉVIA DO DASHBOARD 
 
-![Dashboard Financeiro](dashboard_financeiro_excel.jpg)
+![Dashboard Financeiro](dashboard_financeiro_excel.JPEG)
