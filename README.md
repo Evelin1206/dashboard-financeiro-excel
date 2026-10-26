@@ -37,3 +37,8 @@ Poder praticar minhas habilidades em Excel, organização de dados e criação d
 OBSERVAÇÃO
 
 Projeto desenvolvido durante meus estudos, com base em um vídeo do youtube com dados disponibilizados pelo criador do conteúdo
+
+PRÉVIA DO DASHBOARD 
+
+![Dashboard Financeiro]
+(dashboard_financeiro_excel.jpg)
